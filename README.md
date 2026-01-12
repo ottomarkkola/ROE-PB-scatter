@@ -1,5 +1,6 @@
 # ROE-PB-scatter
 Python screener that fetches P/B and 2-year average ROE from yfinance, ranks long/short candidates, exports results to CSV/XLSX, and plots a long/short chart.
+Parts of this project were developed with help from ChatGPT (OpenAI). I used it for explaining concepts, refactoring code, and generating example functions.
 ## Features
 - Parse tickers from a text file (e.g., S&P 500 list)
 - Fetch:
